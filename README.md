@@ -8,4 +8,4 @@
 ## *Projects*
 ### Project Title
 ## *Description*
-## *Additional Documentation
+## *Additional Documentation*
